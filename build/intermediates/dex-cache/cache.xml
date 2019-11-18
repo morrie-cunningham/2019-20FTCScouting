@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/8.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/6.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ba705f2ad5ee047ef5894a0dc3144a89e9926fb">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/9.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="794728ceaef652ac285038a11cb8d51fdda4ba1a">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/12.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9e90728dcafd0e33df83c5ad195e60fc6b9a382">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/processing-tools/runtime-deps/release/desugar_try_with_resources.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="786b13e9d4668484b418e1b356d7da6cb89fbd2f">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/10.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22493dce7e04fcf1d40c6fe4f51ee520124fe766">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12f14f8bc9d433d6bd1a028622f21ce71a4a2461">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="317c261f8c4bbb4dbe8865cb1904fc6e5e36d707">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/5.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5351791e1f630337ac07c960389eb49c3aabc211">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="350873e8e43276d8c8eb5095bb4c72afe530fc2a">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/13.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="680c493b06f1d5c2d6ff0c2da3185a793dd6cd7d">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/4.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09f0e31ec2997862b5fb1fa1f9a8f9c663835759">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/11.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9242081b33a50376be02002f1b008bf3226072d">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/14.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1a965bb6ee6646034e82c4c41fa09de2d1c720c">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/7.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="83aa64a281f1d65584a5924bb57f4072a50c370c">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/desugar/release/15.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09532ff16479b0b7813a7c24a350c5d9eed16f8d">
+        <dex dex="/Users/morrie/OneDrive - Grand Valley State University/Robotics/2020/FTC/2019-20FTCScouting/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+
+</items>

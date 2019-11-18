@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FTC 2019-20 Match Scouting</string>
+    <string name="action_files">Files</string>
+    <string-array name="DTR">
+        <item>1 - WORST</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5 - BEST</item>
+    </string-array>
+    <string-array name="Teams">
+        <item></item>
+        <item>5385</item>
+        <item>5618</item>
+        <item>5663</item>
+        <item>6070</item>
+        <item>6482</item>
+        <item>6494</item>
+        <item>7023</item>
+        <item>8027</item>
+        <item>8529</item>
+        <item>8733</item>
+        <item>9087</item>
+        <item>9133</item>
+        <item>9476</item>
+        <item>9499</item>
+        <item>9855</item>
+        <item>10024</item>
+        <item>10031</item>
+        <item>10255</item>
+        <item>11266</item>
+        <item>11714</item>
+        <item>12659</item>
+        <item>12678</item>
+        <item>13028</item>
+        <item>13513</item>
+        <item>13917</item>
+        <item>13924</item>
+        <item>14229</item>
+        <item>14486</item>
+        <item>14558</item>
+        <item>14634</item>
+        <item>14859</item>
+        <item>14933</item>
+        <item>15322</item>
+        <item>15339</item>
+        <item>15409</item>
+        <item>16646</item>
+        <item>Add New Team</item>
+    </string-array>
+</resources>
