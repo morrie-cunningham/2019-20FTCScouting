@@ -200,7 +200,7 @@ public class MainActivity extends AppCompatActivity {
                     output.put("end_capping", outEndCapping);
                     output.put("end_foundation", outEndFoundation);
                     output.put("end_parking", outEndParking);
-                    output.put("drive_team", spinnerDT.getSelectedItem().toString());
+                    output.put("drive_team", Integer.parseInt(spinnerDT.getSelectedItem().toString()));
                     Log.d("output", output.toString());
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -247,6 +247,7 @@ public class MainActivity extends AppCompatActivity {
                 numAutoStones.setText("0");
                 numTeleDelivered.setText("0");
                 numTelePlaced.setText("0");
+                numTeleTallSky.setText("0");
                 spinnerDT.setSelection(0);
             }
         });
